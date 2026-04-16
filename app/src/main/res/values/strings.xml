@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nature Explorer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nature_title">Beautiful Forest</string>
+    <string name="nature_description">Explore the serene beauty of the deep forest. A place where nature speaks in whispers and the air is filled with the scent of pine and fresh earth.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
